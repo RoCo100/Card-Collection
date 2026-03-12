@@ -14,7 +14,7 @@ const App = {
             location: "Filmed in Panama",
             streamingPlatform: "Stream now on Peacock!",
             rating: "IMDb rating: 5.7/10",
-            image: "Couple to Throuple.jpg"
+            image: "images/Couple to Throuple.jpg"
         },
         {
             name: "Queer Eye",
